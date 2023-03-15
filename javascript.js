@@ -1,6 +1,6 @@
 //clearScreen() function clears all the values
 function clearScreen() {
-    document.getElementById("result").value="";
+    document.getElementById("result").value=" ";
 }
 //display(value) function displays values
 function display(value) {
