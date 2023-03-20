@@ -1,10 +1,10 @@
 .calculator{
     padding:10px;
-    border-radius:8px;
+    border-radius:7px;
     font-weight:bold;
     height:400px;
     width:500px;
-    margin:200px 5px 10px 240px;
+    margin:auto;
     background-color:rgba(0, 0, 0, 0.993);
     box-shadow:-8px -8px 5px  rgba(163, 40, 2, 0.993) ;
 }
