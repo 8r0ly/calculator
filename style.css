@@ -6,7 +6,7 @@
     width:500px;
     margin:auto;
     background-color:rgba(0, 0, 0, 0.993);
-    box-shadow:-8px -8px 5px  rgba(163, 40, 2, 0.993) ;
+    box-shadow:8px 8px 5px  rgba(163, 40, 2, 0.993) ;
 }
 .display-box{
     font-family:sans-serif;
